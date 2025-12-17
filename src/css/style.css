@@ -197,9 +197,12 @@ body {
 }
 .instagram-content {
 	display: grid;
-	grid-gap: 20px;
+	grid-gap: 70px;
 	grid-template-columns: 1fr 1fr 1fr;
+	justify-self: center;
 	margin-top: 50px;
+}
+.instagram-card {
 }
 
 /* Footer */
@@ -281,7 +284,6 @@ footer a {
 	/* Instagram Section */
 	.instagram-content {
 		grid-template-columns: 1fr;
-		justify-self: center;
 	}
 }
 
