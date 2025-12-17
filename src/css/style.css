@@ -8,6 +8,7 @@ body {
 .hero-section {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
 		url("/src/images/hero-background.jpg");
+	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: #fff;
@@ -207,6 +208,7 @@ body {
 footer {
 	background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
 		url("/src/images/footer-background.jpg");
+	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: #fff;
